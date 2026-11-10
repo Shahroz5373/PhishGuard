@@ -1,0 +1,43 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# --- Virtual environments ---
+venv/
+.venv/
+env/
+
+# --- Tests and tooling caches ---
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# --- Secrets (never commit these) ---
+.env
+.env.*
+.streamlit/secrets.toml
+
+# --- Real emails you analyze (privacy). Test emails live in tests/samples.py ---
+*.eml
+phishguard_report*.txt
+
+# --- Editors and OS ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# --- Project documentation ---
+workflow.md
+
+# --- Python environments ---
+.python-version
+
+# --- Temporary files ---
+*.tmp
+*.temp

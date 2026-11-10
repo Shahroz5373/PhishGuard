@@ -1,0 +1,7 @@
+[server]
+# Largest upload in MB. Matches MAX_UPLOAD_BYTES in app/backend/config.py.
+maxUploadSize = 1
+enableXsrfProtection = true
+
+[browser]
+gatherUsageStats = false
