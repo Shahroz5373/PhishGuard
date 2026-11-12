@@ -32,8 +32,7 @@ phishguard_report*.txt
 .DS_Store
 Thumbs.db
 
-# --- Project documentation ---
-workflow.md
+
 
 # --- Python environments ---
 .python-version
