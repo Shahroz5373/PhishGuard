@@ -9,14 +9,14 @@ PhishGuard is a Python + Streamlit project that helps users inspect suspicious e
 
 ## 🎬 Project Demo
 
-<!-- Add the demo video to this repository (for example: assets/PhishGuard_Demo_720p_GitHub.mp4) -->
+<!-- Add the demo video to this repository (for example: assets/PhishGuard_Demo.mp4) -->
 <p align="center">
-  <a href="assets/PhishGuard_Demo_720p_GitHub.mp4">
+  <a href="assets/PhishGuard_Demo.mp4">
     <img src="https://img.shields.io/badge/▶️_Watch-PhishGuard_Demo-0A66C2?style=for-the-badge" alt="Watch PhishGuard demo">
   </a>
 </p>
 
-> **GitHub tip:** Upload the video to `assets/PhishGuard_Demo_720p_GitHub.mp4` (or replace the path above with your actual video path). GitHub README video embedding support varies; a linked video or GIF preview is a reliable option.
+> **GitHub tip:** Upload the video to `assets/PhishGuard_Demo.mp4` (or replace the path above with your actual video path). GitHub README video embedding support varies; a linked video or GIF preview is a reliable option.
 
 ---
 
