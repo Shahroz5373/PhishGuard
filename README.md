@@ -119,7 +119,7 @@ PhishGuard/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/PhishGuard.git
+git clone https://github.com/Shahroz5373/PhishGuard.git
 cd PhishGuard
 ```
 
@@ -216,7 +216,7 @@ For the complete module-by-module explanation, pipeline details, rule design, an
 
 ## 👨‍💻 Author
 
-**Shahroz Javid**  
+**Muhammad Shahroz**  
 Cybersecurity learner | Python | Linux | Security projects
 
 - GitHub: [@Shahroz5373](https://github.com/Shahroz5373)
