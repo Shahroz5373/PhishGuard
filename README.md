@@ -10,13 +10,14 @@ PhishGuard is a Python + Streamlit project that helps users inspect suspicious e
 
 ## 🎬 Project Demo
 
-<p align="center">
-  <img src="assets/PhishGuard_Demo.gif" alt="PhishGuard Demo" width="100%">
-</p>
+
+
+https://github.com/user-attachments/assets/833cd7e5-1f87-4e13-a99f-81ee5ff93a48
 
 <p align="center">
   <b>PhishGuard — Email Phishing Detection & Safe Analysis Tool</b>
 </p>
+
 
 ---
 
